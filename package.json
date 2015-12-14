@@ -1,12 +1,12 @@
 {
-  "name": "karma-typescript-preprocessor",
-  "version": "0.0.21",
-  "description": "A karma-runner plugin to compile typescript files on the fly.",
+  "name": "karma-typescript-preprocessor-without-copy",
+  "version": "0.0.22",
+  "description": "A karma-runner plugin to compile typescript files on the fly. This fork doesn't copy the file before compiling them.",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:sergeyt/karma-typescript-preprocessor.git"
+    "url": "git@github.com:devnixs/karma-typescript-preprocessor-without-copy.git"
   },
   "keywords": [
     "karma-plugin",
